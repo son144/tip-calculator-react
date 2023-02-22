@@ -1,0 +1,15 @@
+.footer-parent {
+  width: 90%;
+  max-width: 80rem;
+  background-color: black;
+  margin-left: 5.1rem;
+  height: 2.5rem;
+  color: white;
+  margin-top: 278px;
+  border-radius: 5px;
+  margin-bottom: 2rem;
+}
+h3 {
+  padding-top: 8px;
+  letter-spacing: 0.1em;
+}

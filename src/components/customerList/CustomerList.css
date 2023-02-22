@@ -1,0 +1,22 @@
+.list-parent {
+  /* background-color: red; */
+  border: 2px solid red;
+  margin-top: 26px;
+  font-size: 20px;
+  font-weight: lighter;
+  border-radius: 5px;
+  min-height:13rem;
+  max-height: auto;
+  /* background-color: #FFFBAC; */
+  background-color: #fbf1d3;
+}
+li:last-child {
+  margin-bottom: 0.7em;
+}
+li:first-child {
+  margin-top: 0.5rem;
+}
+li {
+  margin-bottom: 0.3rem;
+  padding-right: 900px;
+}
